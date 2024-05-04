@@ -23,7 +23,7 @@ function AddRecipe() {
                     <div className="col col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><br />
                       
                         <select name="" id="" className="form-select cpntrol">
-                            <option value="slect type of food">type of food</option>
+                            <option value="slect type of food"> food type</option>
                             <option value="vegetarian">vegetarian</option>
                             <option value="non vegetarian">non vegetarian</option>
                         </select>
